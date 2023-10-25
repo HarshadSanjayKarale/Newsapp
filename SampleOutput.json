@@ -1,0 +1,176 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "title": "Impeachment and government shutdown threats loom over House’s return - CNN",
+            "author": "Melanie Zanona, Annie Grayer",
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "publishedAt": "2023-09-11T14:12:00Z",
+            "url": "https://www.cnn.com/2023/09/11/politics/impeachment-government-shutdown-house-return/index.html"
+        },
+        {
+            "title": "Bill Gates says Elon Musk was 'super mean to me' after Tesla stock feud - Fox Business",
+            "author": "Anders Hagstrom",
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "publishedAt": "2023-09-11T13:38:23Z",
+            "url": "https://www.foxbusiness.com/business-leaders/bill-gates-says-elon-musk-super-mean-me-after-tesla-stock-feud"
+        },
+        {
+            "title": "The 4 key reasons why the UAW could strike GM, Ford and Stellantis this week - CNN",
+            "author": "Chris Isidore",
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "publishedAt": "2023-09-11T13:30:00Z",
+            "url": "https://www.cnn.com/2023/09/11/business/automakers-strike-negotiations-uaw/index.html"
+        },
+        {
+            "title": "Several workers injured in explosion at Archer Daniels Midland facility in Illinois - NBC News",
+            "author": "The Associated Press",
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "publishedAt": "2023-09-11T13:10:17Z",
+            "url": "https://www.nbcnews.com/news/us-news/several-workers-injured-explosion-archer-daniels-midland-facility-illi-rcna104338"
+        },
+        {
+            "title": "J.M. Smucker to Buy Twinkies Maker Hostess for $4.6 Billion - The Wall Street Journal",
+            "author": "Lauren Thomas, Jesse Newman",
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "publishedAt": "2023-09-11T13:08:00Z",
+            "url": "https://www.wsj.com/business/deals/jm-smucker-buy-hostess-twinkies-maker-6924a82"
+        },
+        {
+            "title": "Drew Barrymore's talk show to return amid strike; WGA plans to picket outside studio - USA TODAY",
+            "author": "Naledi Ushe",
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "publishedAt": "2023-09-11T12:57:50Z",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2023/09/11/drew-barrymore-talk-show-return-amid-writers-strike/70820956007/"
+        },
+        {
+            "title": "Watch live: Harris attends 9/11 memorial service in New York - The Hill",
+            "author": null,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "publishedAt": "2023-09-11T12:31:00Z",
+            "url": "https://families.google.com/service-restricted"
+        },
+        {
+            "title": "Trump and DeSantis both attend Iowa v. Iowa State rivalry game - CNN",
+            "author": "Veronica Stracqualursi, Aaron Pellish",
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "publishedAt": "2023-09-11T12:22:00Z",
+            "url": "https://www.cnn.com/2023/09/10/politics/trump-desantis-iowa-football/index.html"
+        },
+        {
+            "title": "Kim Jong Un to visit Russia at Vladimir Putin’s invitation - CNN",
+            "author": "Jake Kwon, Gawon Bae, Jessie Yeung, Brad Lendon",
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "publishedAt": "2023-09-11T12:10:00Z",
+            "url": "https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html"
+        },
+        {
+            "title": "Hurricane Lee remains Category 3 as hurricane center tracks TS Margot, 2 more systems - Orlando Sentinel",
+            "author": "Richard Tribou",
+            "source": {
+                "id": null,
+                "name": "Orlando Sentinel"
+            },
+            "publishedAt": "2023-09-11T12:06:00Z",
+            "url": "http://www.orlandosentinel.com/2023/09/11/hurricane-lee-remains-category-3-as-hurricane-center-tracks-ts-margot-2-more-systems/"
+        },
+        {
+            "title": "NFL Week 1 stock up, stock down: Dolphins' Tua Tagovailoa, 49ers' Brock Purdy are back at it - CBS Sports",
+            "author": "",
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "publishedAt": "2023-09-11T12:03:00Z",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-1-stock-up-stock-down-dolphins-tua-tagovailoa-49ers-brock-purdy-are-back-at-it/"
+        },
+        {
+            "title": "Japan's SLIM moon lander is carrying this transforming ball robot (it's not BB-8) - Space.com",
+            "author": "Josh Dinner",
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "publishedAt": "2023-09-11T12:00:01Z",
+            "url": "https://www.space.com/jaxa-slim-moon-lander-lev-2-ball-robot"
+        },
+        {
+            "title": "The iPhone 15 may be getting a USB-C port — but wireless is what’s next - The Verge",
+            "author": "David Pierce",
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "publishedAt": "2023-09-11T12:00:00Z",
+            "url": "https://www.theverge.com/23864263/iphone-usb-c-lightning-wireless-charging-apple"
+        },
+        {
+            "title": "Danelo Cavalcante update: Search for Chester County Prison escaped inmate nears 2 weeks - CBS News",
+            "author": "Brandon Goldner",
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "publishedAt": "2023-09-11T11:39:26Z",
+            "url": "https://www.cbsnews.com/philadelphia/news/danelo-cavalcante-update-chester-county-prison-escaped-inmate-pennsylvania/"
+        },
+        {
+            "title": "Up First briefing: Morocco earthquake; new COVID boosters; a primer on prenups - NPR",
+            "author": "Rachel Treisman",
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "publishedAt": "2023-09-11T11:18:37Z",
+            "url": "https://www.npr.org/2023/09/11/1198730218/up-first-briefing-morocco-earthquake-new-covid-boosters-a-primer-on-prenups"
+        },
+        {
+            "title": "These prehistoric marine reptiles evolved long necks by adding more vertebrae - Livescience.com",
+            "author": "Ethan Freedman",
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "publishedAt": "2023-09-11T11:00:20Z",
+            "url": "https://www.livescience.com/animals/reptiles/ancient-sea-monsters-grew-their-long-necks-super-fast-after-great-dying-by-adding-more-vertebrae"
+        },
+        {
+            "title": "How to Watch Apple's iPhone 15 Launch, and What to Expect - WIRED",
+            "author": "Boone Ashworth",
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "publishedAt": "2023-09-11T11:00:00Z",
+            "url": "https://www.wired.com/story/apple-iphone-15-launch-how-to-watch-what-to-expect/"
+        }
+    ]
+}
